@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_share"
+        android:title="Compartilhar" />
+    <item
+        android:id="@+id/mi_maps"
+        android:title="Ver Local" />
+</menu>

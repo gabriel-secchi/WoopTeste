@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WoopTeste</string>
+    <string name="list_events">Listar eventos</string>
+    <string name="open_event">Abrir evento</string>
+</resources>
